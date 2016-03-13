@@ -1,3 +1,7 @@
+REM File Name: {GameName}.bat
+REM Description: Used to sign in to and/or run your game or script.
+REM Licensed under the GPL Lesser General Public License.
+
 @echo off
 title {GameName}
 if '%ver%' == '' goto notauth

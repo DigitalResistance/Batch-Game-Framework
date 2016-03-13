@@ -1,1 +1,1 @@
-#Insert PowerShell code needed for game here.
+#Insert PowerShell code needed for game here. PowerShell can be used for calculations too complex for Batch or for downloading files, similar to Pip for Python.

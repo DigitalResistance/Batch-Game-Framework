@@ -1,3 +1,7 @@
+REM File Name: Launcer.bat
+REM Description: Used to update the game or script and to launch {GameName}.bat
+REM Licensed under the GPL Lesser General Public License.
+
 @echo off
 set ver=1.0
 
